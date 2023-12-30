@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://orhancimen.com.tr](https://orhancimen.com.tr)
+- 👨‍💻 All of my projects are available at [https://orhancimen.com.tr](https://orhancimen.dev)
 
 - 📫 How to reach me **orhancimen5@gmail.com**
 
